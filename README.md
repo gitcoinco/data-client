@@ -1,3 +1,5 @@
+**Note: this is now part of the [main Grants Stack repository](https://github.com/gitcoinco/grants-stack).**
+
 ## Development
 
 To run tests in watch mode:
